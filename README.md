@@ -1,5 +1,5 @@
-# HTB-Writeup-MetadataAnalysis
-HackTheBox Writeup: Automated web reconnaissance for metadata analysis.
+
+# HackTheBox Writeup: Automated web reconnaissance for metadata analysis.
 
 By Ramyar Daneshgar 
 
@@ -8,7 +8,7 @@ By Ramyar Daneshgar
 
 # Write-Up: Identifying Hidden Information Using Web Spidering and Metadata Analysis
 
-Web reconnaissance is a critical skill in identifying valuable information about a target's infrastructure, configuration, and future plans. This write-up details my approach to identifying the location where specific reports would be stored on a target domain. The techniques and tools I employed here are universally applicable to a wide range of penetration testing and security auditing scenarios.
+This write-up details my approach to identifying the location where specific reports would be stored on a target domain. The techniques and tools I employed here are universally applicable to a wide range of penetration testing and security auditing research.
 
 ---
 
@@ -110,4 +110,4 @@ The techniques employed in this exercise are broadly applicable in penetration t
 ## Conclusion
 
 This methodology emphasizes the importance of combining spidering, metadata analysis, and common directory probing. By following a structured approach, I was able to uncover sensitive information that could be overlooked during standard scans. The techniques detailed here are invaluable for identifying misconfigurations, sensitive data exposure, and hidden system components across web domains.
-```
+
